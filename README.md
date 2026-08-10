@@ -3,7 +3,7 @@
 🧑‍💻 I'm **Ngo Minh Hieu** (ンゴ・ミン・ヒエウ in Japan 🗾)  
 🎓 I am a student of **Information Communication Technology, Hanoi University of Science and Technology** (HUST)  
 🛠️ I am interested in **AIoT, Web & Software Development, Embedded Systems**  
-🏃 My hobbies are **running, badminton, and coding**  
+🏃 My hobbies are **football, running, badminton, and coding**  
 🌏 The languages I know are **Vietnamese, English, and 日本語**  
 
 ---
