@@ -41,3 +41,4 @@
 ## 📌 Featured Projects
 
 - 🎮 **[Game Tribe Survival](https://github.com/DOTRIAN/Game_Tribe_Survival):** 2D Game developed with Java, optimized performance using **Spatial Grid** & **Object Pooling**.
+- 🌦️ **[MeteoSim](https://github.com/minhhieu20100600/MeteoSim):** JavaFX weather simulation app integrated with Open-Meteo API for real-time data fetching, hourly trend visualization, and statistical analysis.
