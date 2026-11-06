@@ -42,3 +42,6 @@
 
 - 🎮 **[Game Tribe Survival](https://github.com/DOTRIAN/Game_Tribe_Survival):** 2D Game developed with Java, optimized performance using **Spatial Grid** & **Object Pooling**.
 - 🌦️ **[MeteoSim](https://github.com/minhhieu20100600/MeteoSim):** JavaFX weather simulation app integrated with Open-Meteo API for real-time data fetching, hourly trend visualization, and statistical analysis.
+- ✍️ **[MNIST Classification](https://github.com/minhhieu20100600/MNIST_classification):** Handwritten digit recognition project utilizing **Machine Learning** and **Computer Vision**.
+- 🍎 **[FruitNet Classifier](https://github.com/minhhieu20100600/FruitNet-Classifier):** Fruit classification project.
+- 🔍 **[Conveyor Belt Fault Detection](https://github.com/minhhieu20100600/detecting_conveyor_belt_faults):** Edge AI & Computer Vision solution for real-time defect inspection on industrial conveyor systems.
